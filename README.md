@@ -3,7 +3,7 @@ Welcome to [Operation Code Challenge](https://github.com/OperationCode/OC_Challe
 
 ## The Challenge
 
-Within the challenge there are three steps:
+Within the challenge there are four steps:
 1. Connect with a mentor
 2. Learn the op-code github work flow
 3. Select a project
